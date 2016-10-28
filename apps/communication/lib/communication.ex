@@ -1,0 +1,2 @@
+defmodule Communication do
+end
